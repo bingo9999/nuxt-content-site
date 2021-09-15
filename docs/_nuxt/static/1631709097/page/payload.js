@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/page", {data:[{articles:{slug:"page",title:"another first Blog Post",description:"Learning how to use @nuxt\u002Fcontent to create a blog",dir:"\u002F",path:"\u002Fpage",extension:".json",createdAt:"2021-09-09T14:47:42.610Z",updatedAt:"2021-09-09T14:47:49.319Z"}}],fetch:{},mutations:void 0});

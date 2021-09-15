@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{vivod:{slug:"home",title:"My first Blog Post",description:"Learning how to use @nuxt\u002Fcontent to create a blog",dir:"\u002F",path:"\u002Fhome",extension:".json",createdAt:"2021-09-09T14:24:58.184Z",updatedAt:"2021-09-09T14:34:35.542Z"}}],fetch:{},mutations:void 0});
